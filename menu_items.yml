@@ -1,0 +1,38 @@
+it:
+  - title: The Plan
+    url: /piano/
+  - title: The chapters
+    url: '#'
+    liClass: 'Megamenu-item Megamenu-item--vert'
+    subtitle: The axes of digital transformation
+    subitems:
+    - title: Digital Services
+      url: /servizi-digitali/
+    - title: Ecosystems
+      url: /ecosistemi/
+    - title: Interoperability
+      url: /interoperabilita/
+    - title: Enabling platforms
+      url: /piattaforme-abilitanti/
+    - title: Data
+      url: /dati/
+    - title: Connectivity
+      url: /connettivita/
+    - title: Data Centres and Cloud
+      url: /data-center-e-cloud/
+    - title: Security
+      url: /sicurezza/
+    - title: Data &amp; Analytics Framework
+      url: /daf/
+    - title: Change Management
+      url: /gestione-del-cambiamento/
+    - title: Rationalisation of expenditure
+      url: /razionalizzazione-della-spesa/
+    - title: Principles for the development of digital projects
+      url: /principi-per-lo-sviluppo-di-progetti-digitali/
+  - title: The actions
+    url: /azioni/
+  - title: FAQs
+    url: /faq/
+  - title: Contact us
+    url: /contatti/

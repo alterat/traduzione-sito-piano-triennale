@@ -1,0 +1,93 @@
+﻿team-digitale:
+  nome: Digital Team
+  tipo: central_administrations
+agid:
+  nome: AgID
+  tipo: central_administrations
+consip:
+  nome: Consip
+  tipo: central_administrations
+governo:
+  nome: Government
+  tipo: central_administrations
+pa:
+  nome: PA
+  tipo: central_and_territorial_administrations
+tutte-le-pa:
+  nome: all of the PAs
+  tipo: central_and_territorial_administrations
+pa-wifi:
+  nome: All Public Administrations that manage public Wi-Fi networks
+  tipo: central_and_territorial_administrations
+comuni: 
+  nome: Municipalities
+  tipo: territorial_administrations
+pa-basi-dati:
+  nome: Public Administrations holding databases of national interest
+  tipo: central_and_territorial_administrations
+interno:
+  nome: Ministry of the Interior
+  tipo: central_administrations
+mit:
+  nome: Ministry of Infrastructure and Transport
+  tipo: central_administrations
+mef:
+  nome: Ministry of Economics and Finance
+  tipo: central_administrations
+anac:
+  nome: The National Anti-corruption Authority
+  tipo: central_administrations
+ade:
+  nome: Inland Revenue Authority
+  tipo: central_administrations
+mise:
+  nome: Ministry of Economic Development
+  tipo: central_administrations
+regioni:
+  nome: Regions
+  tipo: territorial_administrations
+unioncamere:
+  nome: Unioncamere (Italian Union of Chambers of Commerce, Industry, Handicraft and Agriculture)
+  tipo: central_administrations
+rgs:
+  nome: General State Accounting
+  tipo: central_administrations
+bdi:
+  nome: Banca d'Italia (Bank of Italy)
+  tipo: central_administrations
+bdt-pa:
+  nome: Big Data Team of the Public Administration
+  tipo: central_administrations
+garante-privacy:
+  nome: Data Protection Authority
+  tipo: central_administrations
+daf:
+  nome: DAF
+  tipo: central_administrations
+dfp:
+  nome: The Department of Public Services
+  tipo: central_administrations
+sogei:
+  nome: Sogei
+  tipo: central_administrations
+anci:
+  nome: National Association of Italian Municipalities
+  tipo: territorial_administrations
+acs:
+  nome: Central State Archive
+  tipo: central_administrations
+salute:
+  nome: Ministry of Health
+  tipo: central_administrations
+asl:
+  nome: Local Health Authority (ASL)
+  tipo: territorial_administrations
+istat:
+  nome: National Institute of Statistics (ISTAT)
+  tipo: central_administrations
+miur:
+  nome: Ministry of Education, University and Research
+  tipo: central_administrations
+altri-organismi-tecnici:
+  nome: Other technical bodies
+  tipo: central_and_territorial_administrations
